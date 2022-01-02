@@ -1,7 +1,7 @@
 # To Do App
 
-    Pequeña aplicación de tareas creada con el proposito de practicar la implementación del hook useReducer, así como también su uso conjunto 
-    con el hook useContext.
+    Pequeña aplicación de tareas creada con el proposito de practicar la implementación del hook 
+    useReducer, así como también su uso conjunto con el hook useContext.
 
     Este proyecto te permite poder agregar, editar y eliminar tareas que pueden ser utiles para organizar 
     tu día. Por otra parte, te brinda la posibilidad de marcar como "Completada" aquellas tareas que 
